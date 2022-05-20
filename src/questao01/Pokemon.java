@@ -13,22 +13,18 @@ public class Pokemon {
 
 	public void ataqueA() {
 		ataqueA.ataque();
-
 	}
 
 	public void ataqueB() {
 		ataqueB.ataque();
-
 	}
 
 	public void ataqueC() {
 		ataqueC.ataque();
-
 	}
 
 	public void ataqueD() {
 		ataqueD.ataque();
-
 	}
 
 	public String getNome() {
